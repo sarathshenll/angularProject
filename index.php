@@ -9,13 +9,14 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <base href="http://localhost/angularProject/">
+  <base href="http://localhost/angularProject/">
+
+
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
-
   <script src="js/angular.js"></script>
   <script src="js/angular-ui-router.js"></script>
-  <script data-require="ui-bootstrap@*" data-semver="0.12.1" src="js/ui-bootstrap-tpls-0.12.1.min.js"></script>
+    <script data-require="ui-bootstrap@*" data-semver="0.12.1" src="js/ui-bootstrap-tpls-0.12.1.min.js"></script>
 
   <script src="js/app.js"></script>
   <script src="js/student_controller.js"></script>
@@ -61,7 +62,7 @@
 
 
 <footer class="container-fluid text-center">
-  <p>Sample Footer</p>
+  <p>Footer Part</p>
 </footer>
 
 
